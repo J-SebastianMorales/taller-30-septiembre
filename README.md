@@ -11,4 +11,6 @@ taller en calse donde generamos ramas en github con archivos y commits especific
 se crean cada una de las 3 ramas con la generacion de los archivos txt correspondientes ademas de sus commits, teniendo en cuenta que las ramas 1 y 2 se generan desde main y la rama 3
 directamende desde la rama 2, ademas el archivo README.MD se genera desde la rama main 
   
+## prueba de sincronizacion con git 
+este cambio es para probar el git push 
 
