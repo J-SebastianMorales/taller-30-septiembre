@@ -14,3 +14,7 @@ directamende desde la rama 2, ademas el archivo README.MD se genera desde la ram
 ## prueba de sincronizacion con git 
 este cambio es para probar el git push 
 
+
+## prueba git pull desde el repositorio web 
+cambio hecho desde el repositorio web
+
